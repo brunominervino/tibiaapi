@@ -22,10 +22,6 @@ If you are interested in helping out with TibiaAPI (adding to the library, bugfi
 If this is your first time making a PR or aren't sure of the standard practice of making a PR, here are some articles to get you started.
  - [GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/)
  - [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
- 
-### License
-
-Apache License 2.0
 
 ### Special Thanks
 * Ian
